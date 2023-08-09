@@ -1,6 +1,8 @@
 # dumbMusic
 Minimalist music player
+
 ![Screenshot](demo.png)
+
 ## Features
 
  - Load files from disk
